@@ -52,5 +52,5 @@ python3 cli.py -u "http://xxx.xxx.xxx.xxx" -r pocs/poc.py --shell --lhost "xxx.x
 别忘了Github下载完给个小星星⭐
 ```
 
-[![Stargazers over time](https://starchart.cc/PeiQi0/PeiQi-WIKI-PocSuite3.svg)](https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3)
+[![](https://repobeats.axiom.co/api/embed/b7e4e137fc6d1873d1d28270feeae5035267ead3.svg "Repobeats analytics image")](https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3)
 
