@@ -17,4 +17,5 @@
 | 15 | Apache Solr XXE 漏洞 CVE-2017-12629 |
 | 16 | Apache Solr RCE 远程命令执行漏洞 CVE-2017-12629 |
 | 17 | Crestron aj.html 账号密码泄漏漏洞 CVE-2022-23178 |
-| 18 | 向日葵 check 远程命令执行漏洞 |
+| 18 | 向日葵 check 远程命令执行漏洞 CNVD-2022-10270 |
+| 19 | Zabbix SAML身份绕过漏洞 CVE-2022-23131 |
